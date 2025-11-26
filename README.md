@@ -5,5 +5,5 @@ blythe
 osdd system
 
 
-strawpage https://creeperawwman.straw.page ,
+blythes strawpage https://creeperawwman.straw.page , derlordes strawpage https://derlord.straw.page
 atabook https://wirefaces.atabook.org
