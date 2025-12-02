@@ -8,14 +8,14 @@
 <br />
 <img width="422" height="592" alt="" src="https://files.catbox.moe/6feboh.png" />
 <br />
-<img width="500" height="500" alt="" src="https://files.catbox.moe/2bsmyr.png" />
+
 
 
 
 <br />
 <br />
 <br />
-<p align="center"> wip sorry
+<p align="center"> wip sorry i dont realy know what to do with this
 
 <br />
 
