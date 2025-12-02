@@ -1,12 +1,3 @@
-blythe
-
-15
-
-osdd system
-
-
-blythes strawpage https://creeperawwman.straw.page , derlordes strawpage https://derlord.straw.page , atabook https://wirefaces.atabook.org
-
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=wirefaces&color=571b17&label=ㅤㅤpeople_who_turned_leftㅤㅤ&style=plastic)
@@ -24,7 +15,7 @@ blythes strawpage https://creeperawwman.straw.page , derlordes strawpage https:/
 <br />
 <br />
 <br />
-<p align="center"> this is a wip sorry
+<p align="center"> wip sorry
 
 <br />
 
